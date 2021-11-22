@@ -133,6 +133,7 @@ while running:
     elif playerX >= 736:
         playerX = 736
 
+    #miii
     # Enemy movement
     for i in range(num_of_enemies):
 
