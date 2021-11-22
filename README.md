@@ -1,3 +1,7 @@
 # SpaceInvader
 Mini Space Invaders Game
-# Preview
+# Previews
+
+![](Previews/Main.JPG)
+
+![](Previews/Game%20Over.JPG)
